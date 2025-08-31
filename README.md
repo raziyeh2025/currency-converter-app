@@ -28,6 +28,7 @@ JavaScript (Fetch API) → Fetching real-time data from currency API
 
 
 📷 Screenshot
+
 ![currency-converter-app](screenshot.png)
 
 
@@ -36,7 +37,7 @@ JavaScript (Fetch API) → Fetching real-time data from currency API
 
 1. Clone the repository:
 
-git clone https://github.com/raziyeh2025/currency-converter.git
+git clone https://github.com/raziyeh2025/currency-converter-app.git
 
 2. Open index.html in your browser.
 
