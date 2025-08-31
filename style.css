@@ -1,0 +1,43 @@
+body {
+    background: rgb(245, 242, 241)
+}
+
+input {
+    width: 280px;
+    padding: 7px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+
+}
+
+select {
+    width: 296px;
+    padding: 7px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+
+#btn-convert {
+    margin-top: 15px;
+    background: rgb(2, 142, 2);
+    width: 296px;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+#btn-convert:hover {
+    margin-top: 15px;
+    background: rgb(58, 232, 58);
+    width: 296px;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+#div-result {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+h1 {
+    margin-top: 100px;
+}
